@@ -28,6 +28,9 @@ ACCESS_TOKEN=your_access_token
 <img width="809" height="784" alt="Screenshot 2026-05-02 at 12 56 30 PM" src="https://github.com/user-attachments/assets/479b60d2-d6c0-4194-b9ea-c509c0084e31" />
 
 ### POST /maintenance
+<img width="706" height="554" alt="Screenshot 2026-05-02 at 1 05 47 PM" src="https://github.com/user-attachments/assets/425ec59e-90bd-4892-a218-03126ca93f5e" />
+
+### GET /maintenance
 <img width="824" height="708" alt="Screenshot 2026-05-02 at 12 55 21 PM" src="https://github.com/user-attachments/assets/da1770ec-3b6c-4922-a2e2-e808d74e0e2f" />
 
 ## Notes
